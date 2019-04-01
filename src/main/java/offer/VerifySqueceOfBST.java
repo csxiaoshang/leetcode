@@ -10,4 +10,6 @@ public class VerifySqueceOfBST {
     public boolean VerifySquenceOfBST(int [] sequence) {
 
     }
+    public boolean compare()
 }
+g
