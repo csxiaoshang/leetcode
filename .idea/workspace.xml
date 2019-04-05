@@ -18,11 +18,12 @@
     <session id="-782399370">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="2" />
@@ -46,29 +47,29 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="44" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="64" />
+          <entry key="java" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="64" />
+          <entry key="JAVA" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="11257" />
+          <entry key="java" value="11260" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11257" />
+          <entry key="JAVA" value="11260" />
         </counts>
       </usages-collector>
     </session>
@@ -76,42 +77,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindPath.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/Clone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="30" selection-end-column="44" />
-              <folding>
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#561#581#0" expanded="true" />
-                <element signature="e#644#653#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="648">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/Clone.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/Convert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="342">
+              <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
               <folding>
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/Convert.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-              <folding>
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="234">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -119,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///opt/java/src.zip!/java/util/Collection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="409" column="23" lean-forward="true" selection-start-line="409" selection-start-column="16" selection-end-line="409" selection-end-column="30" />
+            <state relative-caret-position="6912">
+              <caret line="409" column="23" selection-start-line="409" selection-start-column="16" selection-end-line="409" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -128,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///opt/java/src.zip!/java/util/Objects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="225" column="50" lean-forward="true" selection-start-line="224" selection-start-column="7" selection-end-line="225" selection-end-column="50" />
+            <state relative-caret-position="3384">
+              <caret line="225" column="50" selection-start-line="224" selection-start-column="7" selection-end-line="225" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -137,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///opt/java/src.zip!/java/lang/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="550" column="39" lean-forward="true" selection-start-line="550" selection-start-column="39" selection-end-line="550" selection-end-column="39" />
+            <state relative-caret-position="9414">
+              <caret line="550" column="39" selection-start-line="550" selection-start-column="39" selection-end-line="550" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -146,8 +137,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///opt/java/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="129" column="33" lean-forward="true" selection-start-line="129" selection-start-column="33" selection-end-line="129" selection-end-column="33" />
+            <state relative-caret-position="54">
+              <caret line="1191" column="23" selection-start-line="1191" selection-start-column="23" selection-end-line="1191" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -199,7 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/SortArrayByParity.java" />
         <option value="$PROJECT_DIR$/src/main/java/FlippingAnImage.java" />
         <option value="$PROJECT_DIR$/src/test/FlippingAnImageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/RomanToInteger.java" />
@@ -250,6 +240,7 @@
         <option value="$PROJECT_DIR$/src/main/java/offertest/CloneTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/Clone.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/Convert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/Permutation.java" />
       </list>
     </option>
   </component>
@@ -273,17 +264,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="leetcode" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -343,6 +323,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="leetcode" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -352,7 +343,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554365044915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554478230422" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -480,7 +471,8 @@
       <workItem from="1554036088816" duration="5661000" />
       <workItem from="1554102258159" duration="2541000" />
       <workItem from="1554164906090" duration="2202000" />
-      <workItem from="1554258927957" duration="13742000" />
+      <workItem from="1554258927957" duration="16909000" />
+      <workItem from="1554477359481" duration="872000" />
     </task>
     <servers />
   </component>
@@ -508,13 +500,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117729000" />
+    <option name="totallyTimeSpent" value="121768000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24622716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25019857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -552,13 +544,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/MinimumNumberofArrowstoBurstBallons.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BestTimetoBuy122.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -822,9 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,6 +814,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offertest/CloneTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="30" selection-end-column="44" />
+          <folding>
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Clone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/java/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6912">
+          <caret line="409" column="23" selection-start-line="409" selection-start-column="16" selection-end-line="409" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/java/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3384">
+          <caret line="225" column="50" selection-start-line="224" selection-start-column="7" selection-end-line="225" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/java/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9414">
+          <caret line="550" column="39" selection-start-line="550" selection-start-column="39" selection-end-line="550" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -860,76 +882,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///opt/java/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="409" column="23" lean-forward="true" selection-start-line="409" selection-start-column="16" selection-end-line="409" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/java/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="225" column="50" lean-forward="true" selection-start-line="224" selection-start-column="7" selection-end-line="225" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/java/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="550" column="39" lean-forward="true" selection-start-line="550" selection-start-column="39" selection-end-line="550" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///opt/java/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="129" column="33" lean-forward="true" selection-start-line="129" selection-start-column="33" selection-end-line="129" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="30" selection-end-column="44" />
-          <folding>
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#561#581#0" expanded="true" />
-            <element signature="e#644#653#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offertest/CloneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Clone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-          <folding>
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="1191" column="23" selection-start-line="1191" selection-start-column="23" selection-end-line="1191" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/offer/Convert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
           <folding>
             <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
