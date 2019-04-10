@@ -9,20 +9,21 @@ import java.util.Stack;
  * 类说明：
  */
 public class FindTheK {
-    public ListNode FindKthToTail(ListNode head,int k) {
-        Stack<ListNode> stack=new Stack<>();
-        while(head!=null){
+    public ListNode FindKthToTail(ListNode head, int k) {
+        Stack<ListNode> stack = new Stack<>();
+        while (head != null) {
             stack.push(head);
-            head=head.next;
+            head = head.next;
         }
-        while(k-->1){
+        while (k-- > 1) {
             if (stack.isEmpty())
                 stack.pop();
             else
                 return head;
         }
-        return stack.isEmpty()?null: stack.pop();
+        return stack.isEmpty() ? null : stack.pop();
     }
+
     public class ListNode {
         int val;
         ListNode next = null;
@@ -30,4 +31,5 @@ public class FindTheK {
         ListNode(int val) {
             this.val = val;
         }
+    }
 }
