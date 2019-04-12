@@ -8,14 +8,20 @@ package main.java.offer;
  */
 public class FindGreatestSumOfSubArray {
     public int FindGreatestSumOfSubArray(int[] array) {
-        int sum=0;
-        for (int i=0;i<array.length;i++){
-            sum+=array[i];
-        }
-        int res=0;
+        if(array.length==0||array==null)
+            return 0;
         int tem=0;
+        int res=array[0];
         for (int i=0;i<array.length;i++){
-            tem+=array[i];
+            if (tem<=0)
+                tem=array[i];
+            else {
+                tem+=array[i];
+            }
+            if (tem>res)
+                res=tem;
         }
+        return res;
     }
+
 }
