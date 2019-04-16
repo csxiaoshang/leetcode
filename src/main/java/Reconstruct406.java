@@ -11,7 +11,7 @@ import java.util.List;
  * @Description TODO
  **/
 public class Reconstruct406 {
-    public int[][] reconstructQueue(int[][] people){
+/*    public int[][] reconstructQueue(int[][] people){
         if(people==null||people.length==0)
             return  new int[0][0];
         Arrays.sort(people, new Comparator<int[]>() {
@@ -27,5 +27,5 @@ public class Reconstruct406 {
             tmp.add(people[i][1],new int[]{people[i][0],people[i][1]});
         }
         //不会
-    }
+    }*/
 }

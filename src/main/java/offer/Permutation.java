@@ -10,6 +10,6 @@ import java.util.ArrayList;
  */
 public class Permutation {
     public ArrayList<String> Permutation(String str) {
-
+        return  new ArrayList<String>();
     }
 }

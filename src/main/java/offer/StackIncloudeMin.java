@@ -44,7 +44,9 @@ public class StackIncloudeMin {
     public int min() {
         return stack[min];
     }*/
-    int min;  //定义最小的下标
+
+
+/*    int min;  //定义最小的下标
     ​int head=0;  //栈底下标   默认为零即可，这是我已开始看错题目了，写成队列搞的
 ​    int index=0; //定义栈顶下标
     int [] stack=new int[100];
@@ -78,6 +80,5 @@ public class StackIncloudeMin {
 
     public int min() {
         //直接数组下标查找最小值，时间复杂度为o(1)
-        return stack[min];
+        return stack[min];*/
     }
-}

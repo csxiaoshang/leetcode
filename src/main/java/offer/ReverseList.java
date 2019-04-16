@@ -11,22 +11,23 @@ import java.util.Stack;
  */
 public class ReverseList {
     public ListNode ReverseList(ListNode head) {
-        Stack<ListNode> stack=new Stack<>();
-        if (head==null)
+        Stack<ListNode> stack = new Stack<>();
+        if (head == null)
             return null;
-        while(head!=null){
+        while (head != null) {
             stack.push(head);
-            head=head.next;
+            head = head.next;
         }
-        ListNode res=stack.peek();
-        while (!stack.isEmpty()){
-            ListNode listNode= stack.pop();
+        ListNode res = stack.peek();
+        while (!stack.isEmpty()) {
+            ListNode listNode = stack.pop();
             if (stack.isEmpty())
-                listNode.next=null;
-            else listNode.next=stack.peek();
+                listNode.next = null;
+            else listNode.next = stack.peek();
         }
         return res;
     }
+
     public class ListNode {
         int val;
         ListNode next = null;
@@ -34,4 +35,5 @@ public class ReverseList {
         ListNode(int val) {
             this.val = val;
         }
+    }
 }

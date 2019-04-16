@@ -5,7 +5,7 @@ public class SqrtX {
         if (x<=1)
             return x;
         int l=1,h=x;
-        while ((l<=h){
+        while (l<=h){
             int mid=l+(h-l)/2;
             int sqrt=x/mid;
             if (sqrt==mid)

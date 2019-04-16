@@ -36,6 +36,7 @@ public class PrintList {
 
 //////递归
 
+/*
 
         ArrayList<Integer> arrayList=new ArrayList<Integer>();
 public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
@@ -45,3 +46,4 @@ public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         }
         return arrayList;
         }
+*/
