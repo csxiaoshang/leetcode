@@ -1,5 +1,7 @@
 package main.java.test;
 
+import main.java.offer.FirstNotRepeatingChar;
+
 /**
  * @author ashang  liuys@bupt.edu.cn
  * @Date 19-4-16 下午10:22
@@ -8,6 +10,8 @@ package main.java.test;
  */
 public class Test {
     public static void main(String[] args){
-        System.out.println("test");
+        char[] index=new char[10];
+        for (int i=0;i<10;i++)
+            System.out.println(index[i]);
     }
 }
