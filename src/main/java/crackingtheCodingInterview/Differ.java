@@ -12,6 +12,7 @@ import java.util.HashMap;
 public class Differ {
     public boolean checkDifferent(String iniString) {
         // write code here
+
 /*        HashMap<Character,Integer> str=new HashMap<>();
         for (int i=0;i<iniString.length();i++){
             System.out.println(str.get(iniString.charAt(i)));

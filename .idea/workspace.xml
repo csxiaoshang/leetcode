@@ -4,14 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/offer/VerifySqueceOfBST.java" line="20" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/main/java/SingElementinasortedarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/main/java/SingElementinasortedarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/main/java/offer/FirstNotRepeatingChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/main/java/offer/FirstNotRepeatingChar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/main/java/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/main/java/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SingElementinasortedarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingElementinasortedarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -222,8 +215,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/crackingtheCodingInterview/Differ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            <state relative-caret-position="900">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -390,7 +383,7 @@
     <property name="SearchEverywhereHistoryKey" value="Sort&#9;FILE&#9;jar:///opt/java/src.zip!/com/sun/org/apache/xalan/internal/xsltc/compiler/Sort.java&#10;asList&#9;PSI&#9;JAVA://java.util.Arrays#asList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559824562786" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559825068056" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -608,7 +601,7 @@
       <workItem from="1559548663563" duration="1029000" />
       <workItem from="1559560961479" duration="599000" />
       <workItem from="1559736695052" duration="3680000" />
-      <workItem from="1559783163221" duration="4526000" />
+      <workItem from="1559783163221" duration="4897000" />
     </task>
     <servers />
   </component>
@@ -636,13 +629,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="279033000" />
+    <option name="totallyTimeSpent" value="279404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1431" y="24" width="2495" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18915613" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18915613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -657,7 +649,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.16956851" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.16956851" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32973805" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329296" />
@@ -1018,8 +1010,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/crackingtheCodingInterview/Differ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        <state relative-caret-position="900">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
