@@ -1,6 +1,14 @@
 package main.java.test;
 
+import com.sun.deploy.util.StringUtils;
+import main.java.crackingtheCodingInterview.Differ;
 import main.java.offer.FirstNotRepeatingChar;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import static com.sun.deploy.util.StringUtils.*;
 
 /**
  * @author ashang  liuys@bupt.edu.cn
@@ -9,9 +17,13 @@ import main.java.offer.FirstNotRepeatingChar;
  * 类说明：
  */
 public class Test {
-    public static void main(String[] args){
-        char[] index=new char[10];
-        for (int i=0;i<10;i++)
-            System.out.println(index[i]);
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        while (sc.hasNext()) {
+            String str=sc.next();
+            Differ differ=new Differ();
+            differ.checkDifferent(str);
+        }
     }
 }
