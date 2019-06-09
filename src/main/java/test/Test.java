@@ -22,8 +22,11 @@ public class Test {
         Scanner sc = new Scanner(System.in);
         while (sc.hasNext()) {
             String str=sc.next();
-            Differ differ=new Differ();
-            differ.checkDifferent(str);
+            char[] s=new char[10];
+            for(int i=0;i<str.length();i++){
+                s[i]=str.charAt(i);
+            }
+            System.out.println(new String(s,0,str.length()));
         }
     }
 }
