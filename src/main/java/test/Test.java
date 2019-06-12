@@ -2,6 +2,7 @@ package main.java.test;
 
 import com.sun.deploy.util.StringUtils;
 import main.java.crackingtheCodingInterview.Differ;
+import main.java.crackingtheCodingInterview.ReverseEqual;
 import main.java.offer.FirstNotRepeatingChar;
 
 import java.util.ArrayList;
@@ -20,13 +21,15 @@ public class Test {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        ReverseEqual reverseEqual=new ReverseEqual();
+        List<String> stringList=new ArrayList<>();
         while (sc.hasNext()) {
-            String str=sc.next();
-            char[] s=new char[10];
-            for(int i=0;i<str.length();i++){
-                s[i]=str.charAt(i);
-            }
-            System.out.println(new String(s,0,str.length()));
+            String str = sc.next();
+            char[] s = new char[10];
+            stringList.add(str);
+
+        }
         }
     }
-}
+
+
