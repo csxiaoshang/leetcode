@@ -1,5 +1,7 @@
 package main.java.crackingtheCodingInterview;
 
+import com.sun.deploy.util.StringUtils;
+
 /**
  * @author ashang  liuys@bupt.edu.cn
  * @Date 19-6-12 下午10:06
@@ -10,27 +12,31 @@ package main.java.crackingtheCodingInterview;
 public class ReverseEqual {
     public boolean checkReverseEqual(String s1, String s2) {
         // write code here
-        int length=s1.length();
+/*        int length=s1.length();
         if (s1.length()!=s2.length())
             return false;
         int index=0;
         char c=s1.charAt(0);
         for (int i=0;i<s1.length();i++){
-            if (c==s2.charAt(i)){
+            char c11=s1.charAt(length-i==length?length-1:length-i);
+            if (c==s2.charAt(i)&&c11==s2.charAt(0)){
                 index=i;
                 break;
             }
         }
-        if (index==0)
-            return false;
         for (int i=0;i<s1.length();i++){
             char c1=s1.charAt(i);
-            int tem=index+i>=length?i-index:index+i;
+            int tem=index+i>=length?i+index-length:index+i;
             char c2=s2.charAt(tem);
             if (c1!=c2){
                 return false;
             }
         }
         return true;
+    }*/
+
+        if (s1.length() != s2.length())
+            return false;
+        return (s1 + s1).contains(s2);
     }
 }

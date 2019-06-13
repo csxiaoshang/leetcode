@@ -5,9 +5,12 @@ import main.java.crackingtheCodingInterview.Differ;
 import main.java.crackingtheCodingInterview.ReverseEqual;
 import main.java.offer.FirstNotRepeatingChar;
 
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.List;
 import java.util.Scanner;
+import java.util.logging.SimpleFormatter;
 
 import static com.sun.deploy.util.StringUtils.*;
 
@@ -21,15 +24,16 @@ public class Test {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        ReverseEqual reverseEqual=new ReverseEqual();
-        List<String> stringList=new ArrayList<>();
+        ReverseEqual reverseEqual = new ReverseEqual();
+        List<String> stringList = new ArrayList<>();
         while (sc.hasNext()) {
             String str = sc.next();
-            char[] s = new char[10];
             stringList.add(str);
+            if (stringList.size()>1)
+            System.out.println(reverseEqual.checkReverseEqual(stringList.get(0), stringList.get(1)));
+        }
 
-        }
-        }
     }
+}
 
 
