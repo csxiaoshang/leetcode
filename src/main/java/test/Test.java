@@ -6,10 +6,7 @@ import main.java.crackingtheCodingInterview.ReverseEqual;
 import main.java.offer.FirstNotRepeatingChar;
 
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 import java.util.logging.SimpleFormatter;
 
 import static com.sun.deploy.util.StringUtils.*;
@@ -26,11 +23,12 @@ public class Test {
         Scanner sc = new Scanner(System.in);
         ReverseEqual reverseEqual = new ReverseEqual();
         List<String> stringList = new ArrayList<>();
+        Map<String,String> map=new HashMap<>();
         while (sc.hasNext()) {
             String str = sc.next();
             stringList.add(str);
-            if (stringList.size()>1)
-            System.out.println(reverseEqual.checkReverseEqual(stringList.get(0), stringList.get(1)));
+            map.put(str,str);
+            System.out.println(map.toString());
         }
 
     }
