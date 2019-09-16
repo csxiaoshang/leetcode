@@ -1,6 +1,7 @@
 package main.java.test;
 
 import com.sun.deploy.util.StringUtils;
+import main.java.crackingtheCodingInterview.BinInsert;
 import main.java.crackingtheCodingInterview.Differ;
 import main.java.crackingtheCodingInterview.ReverseEqual;
 import main.java.offer.FirstNotRepeatingChar;
@@ -21,7 +22,7 @@ public class Test {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        ReverseEqual reverseEqual = new ReverseEqual();
+/*        ReverseEqual reverseEqual = new ReverseEqual();
         List<String> stringList = new ArrayList<>();
         Map<String,String> map=new HashMap<>();
         while (sc.hasNext()) {
@@ -29,7 +30,17 @@ public class Test {
             stringList.add(str);
             map.put(str,str);
             System.out.println(map.toString());
+        }*/
+
+        List<Integer> list = new ArrayList();
+        while (sc.hasNext()) {
+            list.add(Integer.valueOf(sc.next()));
+            if (list.size() == 4){
+                BinInsert binInsert = new BinInsert();
+                System.out.println(binInsert.binInsert(list.get(0),list.get(1),list.get(2),list.get(3)));
+            }
         }
+
 
     }
 }
