@@ -1,6 +1,7 @@
 package main.java.test;
 
 import com.sun.deploy.util.StringUtils;
+import main.java.crackingtheCodingInterview.BinDecimal;
 import main.java.crackingtheCodingInterview.BinInsert;
 import main.java.crackingtheCodingInterview.Differ;
 import main.java.crackingtheCodingInterview.ReverseEqual;
@@ -32,13 +33,18 @@ public class Test {
             System.out.println(map.toString());
         }*/
 
-        List<Integer> list = new ArrayList();
+/*        List<Integer> list = new ArrayList();
         while (sc.hasNext()) {
             list.add(Integer.valueOf(sc.next()));
             if (list.size() == 4){
                 BinInsert binInsert = new BinInsert();
                 System.out.println(binInsert.binInsert(list.get(0),list.get(1),list.get(2),list.get(3)));
             }
+        }*/
+
+        while (sc.hasNext()) {
+            BinDecimal binDecimal = new BinDecimal();
+            System.out.println(binDecimal.printBin(Double.parseDouble(sc.next())));
         }
 
 
