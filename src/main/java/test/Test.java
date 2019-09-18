@@ -42,12 +42,17 @@ public class Test {
             }
         }*/
 
-        while (sc.hasNext()) {
+/*        while (sc.hasNext()) {
             BinDecimal binDecimal = new BinDecimal();
             System.out.println(binDecimal.printBin(Double.parseDouble(sc.next())));
-        }
+        }*/
 
-
+       int a = 1 << 5;
+       int  b = a - 1;
+        int mark = ~b;
+        int n = 255;
+        n = n & mark;
+        System.out.println(n);
     }
 }
 
