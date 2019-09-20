@@ -1,10 +1,7 @@
 package main.java.test;
 
 import com.sun.deploy.util.StringUtils;
-import main.java.crackingtheCodingInterview.BinDecimal;
-import main.java.crackingtheCodingInterview.BinInsert;
-import main.java.crackingtheCodingInterview.Differ;
-import main.java.crackingtheCodingInterview.ReverseEqual;
+import main.java.crackingtheCodingInterview.*;
 import main.java.offer.FirstNotRepeatingChar;
 
 import java.text.SimpleDateFormat;
@@ -47,12 +44,19 @@ public class Test {
             System.out.println(binDecimal.printBin(Double.parseDouble(sc.next())));
         }*/
 
-       int a = 1 << 5;
+/*       int a = 1 << 5;
        int  b = a - 1;
         int mark = ~b;
         int n = 255;
         n = n & mark;
-        System.out.println(n);
+        System.out.println(n);*/
+
+        Render render = new Render();
+        int[] ints = new int[]{0,0,0,0,0,0,0,0};
+        int[] res = render.renderPixel(ints, 0, 63);
+        for (int i = 0; i < res.length; i++) {
+            System.out.println(res[i]);
+        }
     }
 }
 
