@@ -51,11 +51,17 @@ public class Test {
         n = n & mark;
         System.out.println(n);*/
 
-        Render render = new Render();
+/*        Render render = new Render();
         int[] ints = new int[]{0,0,0,0,0,0,0,0};
         int[] res = render.renderPixel(ints, 0, 63);
         for (int i = 0; i < res.length; i++) {
             System.out.println(res[i]);
+        }*/
+
+        while (sc.hasNext()) {
+            int i = sc.nextInt();
+
+            System.out.println(i);
         }
     }
 }
