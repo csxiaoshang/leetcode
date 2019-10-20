@@ -58,11 +58,21 @@ public class Test {
             System.out.println(res[i]);
         }*/
 
-        while (sc.hasNext()) {
+/*        while (sc.hasNext()) {
             int i = sc.nextInt();
 
             System.out.println(i);
-        }
+        }*/
+        User user = new User();
+        List<Integer> tem = user.num;
+        tem.add(2);
+        System.out.println(user.num);
+        System.out.println(tem);
+
+    }
+
+    static class User{
+        List<Integer> num = new ArrayList<Integer>();
     }
 }
 
