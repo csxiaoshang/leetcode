@@ -63,12 +63,13 @@ public class Test {
 
             System.out.println(i);
         }*/
-        User user = new User();
+
+/*        User user = new User();
         List<Integer> tem = user.num;
         tem.add(2);
         System.out.println(user.num);
-        System.out.println(tem);
-
+        System.out.println(tem);*/
+        System.out.println(String.format("%04d", 12));
     }
 
     static class User{

@@ -9,6 +9,10 @@ package main.java.crackingtheCodingInterview;
 public class Coins {
     public int countWays(int n) {
         // write code here
+/**
+ *
+ * 运行超时
+ */
 
 /*        int[][] res = new int[4][n+1];
         int[] coins = new int[]{1, 5, 10, 15};
@@ -27,12 +31,12 @@ public class Coins {
         }
         return res[3][n];*/
 
-        int[] coins=new int[]{1,5,10,25};
+        int[] coins = new int[]{1, 5, 10, 25};
         int[] dp = new int[100001];
         dp[0] = 1;
-        for(int i = 0;i < 4;++i){
-            for(int j = coins[i];j <= n;++j){
-                dp[j] =(dp[j]+dp[j-coins[i]])%1000000007;
+        for (int i = 0; i < 4; ++i) {
+            for (int j = coins[i]; j <= n; ++j) {
+                dp[j] = (dp[j] + dp[j - coins[i]]) % 1000000007;
             }
         }
         return dp[n];
