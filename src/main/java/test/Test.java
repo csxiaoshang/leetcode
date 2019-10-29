@@ -69,7 +69,20 @@ public class Test {
         tem.add(2);
         System.out.println(user.num);
         System.out.println(tem);*/
-        System.out.println(String.format("%04d", 12));
+       // System.out.println(String.format("%04d", 12));
+
+/*        Queue<Integer> queue = new PriorityQueue<>(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o1-o2;
+            }
+        });
+        queue.add(1);
+        queue.add(2);
+        queue.add(3);
+        while (!queue.isEmpty()) {
+            System.out.println(queue.poll());
+        }*/
     }
 
     static class User{
