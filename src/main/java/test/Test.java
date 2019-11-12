@@ -83,6 +83,8 @@ public class Test {
         while (!queue.isEmpty()) {
             System.out.println(queue.poll());
         }*/
+        String s =null;
+        System.out.println(s.equals("asdfa"));
     }
 
     static class User{

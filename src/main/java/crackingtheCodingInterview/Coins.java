@@ -41,4 +41,23 @@ public class Coins {
         }
         return dp[n];
     }
+
+/*    public int countWays2(int n) {
+
+        int[] coins = new int[]{25,10,5,1};
+        int[] dp = new int[100001];
+        dp[0] = 1;
+        for (int i = 1; i <= n; i++) {
+            int a =i-25;
+            int b = i-10;
+            int c = i -5;
+            int d = i-1;
+            int tem1 = a>=0?dp[a]*dp[25]:0;
+            int tem2 = b>=0?dp[b]*dp[10]:0;
+            int tem3 = c>=0?dp[c]*dp[5]:0;
+            int tem4 = d>=0?dp[d]*dp[1]:0;
+            dp[i] = tem1+tem2+tem3+tem4;
+        }
+        return dp[n];
+    }*/
 }
