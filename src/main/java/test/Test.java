@@ -82,9 +82,12 @@ public class Test {
         queue.add(3);
         while (!queue.isEmpty()) {
             System.out.println(queue.poll());
-        }*/
-        String s =null;
         System.out.println(s.equals("asdfa"));
+        }*/
+/*        Byte[] bytes = new Byte[];
+        String s = ;*/
+        String s = "123456789";
+        System.out.println(s.substring(3,6));
     }
 
     static class User{
