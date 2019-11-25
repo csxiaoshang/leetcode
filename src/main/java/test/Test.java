@@ -2,6 +2,7 @@ package main.java.test;
 
 import com.sun.deploy.util.StringUtils;
 import main.java.crackingtheCodingInterview.*;
+import main.java.crackingtheCodingInterview.Stack;
 import main.java.offer.FirstNotRepeatingChar;
 
 import java.text.SimpleDateFormat;
@@ -86,8 +87,12 @@ public class Test {
         }*/
 /*        Byte[] bytes = new Byte[];
         String s = ;*/
-        String s = "123456789";
-        System.out.println(s.substring(3,6));
+/*        String s = "123456789";
+        System.out.println(s.substring(3,6));*/
+        int[][] in = {{1,2,3},{4,5,6}};
+        FinderElement f = new FinderElement();
+        int[] res = f.findElement(in,2,3,6);
+        System.out.println(res[0]+"+"+res[1]);
     }
 
     static class User{
