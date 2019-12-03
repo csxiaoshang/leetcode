@@ -18,6 +18,7 @@ import static com.sun.deploy.util.StringUtils.*;
  * 类说明：
  */
 public class Test {
+    static int b;
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -89,10 +90,11 @@ public class Test {
         String s = ;*/
 /*        String s = "123456789";
         System.out.println(s.substring(3,6));*/
-        int[][] in = {{1,2,3},{4,5,6}};
+/*        int[][] in = {{1,2,3},{4,5,6}};
         FinderElement f = new FinderElement();
         int[] res = f.findElement(in,2,3,6);
-        System.out.println(res[0]+"+"+res[1]);
+        System.out.println(res[0]+"+"+res[1]);*/
+        System.out.println("b :"+b);
     }
 
     static class User{
