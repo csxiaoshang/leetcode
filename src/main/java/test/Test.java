@@ -19,6 +19,7 @@ import static com.sun.deploy.util.StringUtils.*;
  */
 public class Test {
     static int b;
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -71,7 +72,7 @@ public class Test {
         tem.add(2);
         System.out.println(user.num);
         System.out.println(tem);*/
-       // System.out.println(String.format("%04d", 12));
+        // System.out.println(String.format("%04d", 12));
 
 /*        Queue<Integer> queue = new PriorityQueue<>(new Comparator<Integer>() {
             @Override
@@ -94,10 +95,16 @@ public class Test {
         FinderElement f = new FinderElement();
         int[] res = f.findElement(in,2,3,6);
         System.out.println(res[0]+"+"+res[1]);*/
-        System.out.println("b :"+b);
+        //System.out.println("b :"+b);
+        Integer i = 100;
+        Integer j = 100;
+        Integer m = 200;
+        Integer n = 200;
+        System.out.println(m);
+        System.out.println(m.equals(n));
     }
 
-    static class User{
+    static class User {
         List<Integer> num = new ArrayList<Integer>();
     }
 }
