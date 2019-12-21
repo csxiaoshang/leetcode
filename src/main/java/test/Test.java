@@ -96,12 +96,9 @@ public class Test {
         int[] res = f.findElement(in,2,3,6);
         System.out.println(res[0]+"+"+res[1]);*/
         //System.out.println("b :"+b);
-        Integer i = 100;
-        Integer j = 100;
-        Integer m = 200;
-        Integer n = 200;
-        System.out.println(m);
-        System.out.println(m.equals(n));
+        String str = "asdfa asdfad dfee dfdf";
+        String[] res = str.split(" ");
+        System.out.println(Arrays.toString(res));
     }
 
     static class User {
