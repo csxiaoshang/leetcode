@@ -96,9 +96,18 @@ public class Test {
         int[] res = f.findElement(in,2,3,6);
         System.out.println(res[0]+"+"+res[1]);*/
         //System.out.println("b :"+b);
-        String str = "asdfa asdfad dfee dfdf";
-        String[] res = str.split(" ");
-        System.out.println(Arrays.toString(res));
+        HashMap<String, ArrayList<String>> map = new HashMap<>();
+        ArrayList<String> list = new ArrayList<>();
+        String s = "aaa";
+        list.add(s);
+        list.add("bbb");
+        map.put("list", list);
+        System.out.println(list.contains(s));
+        System.out.println(list);
+        System.out.println("map"+map.get("list").contains(s));
+        System.out.println("map"+map.get("list").contains("ccc"));
+
+
     }
 
     static class User {
