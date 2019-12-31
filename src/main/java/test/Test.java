@@ -96,7 +96,7 @@ public class Test {
         int[] res = f.findElement(in,2,3,6);
         System.out.println(res[0]+"+"+res[1]);*/
         //System.out.println("b :"+b);
-        HashMap<String, ArrayList<String>> map = new HashMap<>();
+/*        HashMap<String, ArrayList<String>> map = new HashMap<>();
         ArrayList<String> list = new ArrayList<>();
         String s = "aaa";
         list.add(s);
@@ -105,8 +105,12 @@ public class Test {
         System.out.println(list.contains(s));
         System.out.println(list);
         System.out.println("map"+map.get("list").contains(s));
-        System.out.println("map"+map.get("list").contains("ccc"));
+        System.out.println("map"+map.get("list").contains("ccc"));*/
 
+/*        String s ="";
+        if(s!=null && !"".equals(s)) {
+            Integer res = Integer.parseInt(s);
+        }*/
 
     }
 
