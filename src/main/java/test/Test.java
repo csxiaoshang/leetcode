@@ -111,7 +111,7 @@ public class Test {
         if(s!=null && !"".equals(s)) {
             Integer res = Integer.parseInt(s);
         }*/
-
+        System.out.println(test.a);
     }
 
     static class User {
