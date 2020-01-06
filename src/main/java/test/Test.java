@@ -1,15 +1,8 @@
 package main.java.test;
 
-import com.sun.deploy.util.StringUtils;
-import main.java.crackingtheCodingInterview.*;
-import main.java.crackingtheCodingInterview.Stack;
-import main.java.offer.FirstNotRepeatingChar;
+import main.java.demo.MyConfig;
 
-import java.text.SimpleDateFormat;
 import java.util.*;
-import java.util.logging.SimpleFormatter;
-
-import static com.sun.deploy.util.StringUtils.*;
 
 /**
  * @author ashang  liuys@bupt.edu.cn
@@ -111,7 +104,8 @@ public class Test {
         if(s!=null && !"".equals(s)) {
             Integer res = Integer.parseInt(s);
         }*/
-        System.out.println(test.a);
+        System.out.println(new TestConfig());
+
     }
 
     static class User {
