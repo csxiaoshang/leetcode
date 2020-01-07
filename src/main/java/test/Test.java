@@ -104,8 +104,21 @@ public class Test {
         if(s!=null && !"".equals(s)) {
             Integer res = Integer.parseInt(s);
         }*/
-        System.out.println(new TestConfig());
 
+/*        String timeEnd = "20091225091010";
+        Calendar calendar = Calendar.getInstance();
+        int year = Integer.parseInt(timeEnd.substring(0, 4));
+        int month = Integer.parseInt(timeEnd.substring(4, 6)) - 1;
+        int day = Integer.parseInt(timeEnd.substring(6, 8));
+        int hour = Integer.parseInt(timeEnd.substring(8, 10));
+        int min = Integer.parseInt(timeEnd.substring(10, 12));
+        int second = Integer.parseInt(timeEnd.substring(12,14));
+        calendar.set(year, month, day, hour, min, second);*/
+        int[][] arr = {{1, 2, 3},{1,2,1}};
+        System.out.println(arr);
+        char c = '2';
+        int res = c - '0';
+        System.out.println(res);
     }
 
     static class User {
