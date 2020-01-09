@@ -105,7 +105,7 @@ public class Test {
             Integer res = Integer.parseInt(s);
         }*/
 
-/*        String timeEnd = "20091225091010";
+/*        String timeEnd = "2091225091010";
         Calendar calendar = Calendar.getInstance();
         int year = Integer.parseInt(timeEnd.substring(0, 4));
         int month = Integer.parseInt(timeEnd.substring(4, 6)) - 1;
@@ -114,11 +114,18 @@ public class Test {
         int min = Integer.parseInt(timeEnd.substring(10, 12));
         int second = Integer.parseInt(timeEnd.substring(12,14));
         calendar.set(year, month, day, hour, min, second);*/
-        int[][] arr = {{1, 2, 3},{1,2,1}};
+/*        int[][] arr = {{1, 2, 3},{1,2,1}};
         System.out.println(arr);
         char c = '2';
         int res = c - '0';
-        System.out.println(res);
+        System.out.println(res);*/
+/*        String a[] ="string";
+        modify(a);
+        System.out.println(a);*/
+    }
+
+    static void  modify(String a){
+        a = "asdf";
     }
 
     static class User {
