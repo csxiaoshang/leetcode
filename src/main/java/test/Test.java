@@ -1,5 +1,6 @@
 package main.java.test;
 
+import main.java.ArrangingCoins;
 import main.java.demo.MyConfig;
 
 import java.util.*;
@@ -122,15 +123,12 @@ public class Test {
 /*        String a[] ="string";
         modify(a);
         System.out.println(a);*/
-    }
 
-    static void  modify(String a){
-        a = "asdf";
-    }
+}
 
-    static class User {
-        List<Integer> num = new ArrayList<Integer>();
-    }
+
+
+
 }
 
 
