@@ -17,6 +17,8 @@ public class Test {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+
+
 /*        ReverseEqual reverseEqual = new ReverseEqual();
         List<String> stringList = new ArrayList<>();
         Map<String,String> map=new HashMap<>();
