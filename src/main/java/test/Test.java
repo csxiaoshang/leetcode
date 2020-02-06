@@ -16,8 +16,8 @@ public class Test {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
-
+        float res =  2f/3 ;
+        System.out.println(res);
 
 /*        ReverseEqual reverseEqual = new ReverseEqual();
         List<String> stringList = new ArrayList<>();
@@ -126,9 +126,7 @@ public class Test {
         modify(a);
         System.out.println(a);*/
 
-}
-
-
+    }
 
 
 }
