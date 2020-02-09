@@ -18,6 +18,8 @@ public class Test {
 
         float res =  2f/3 ;
         System.out.println(res);
+        HashSet set = new HashSet();
+        set.clear();
 
 /*        ReverseEqual reverseEqual = new ReverseEqual();
         List<String> stringList = new ArrayList<>();
