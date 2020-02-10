@@ -11,7 +11,7 @@ public class ImplementTriePrefixTree208 {
     int cur;
     int length = 16;
     /** Initialize your data structure here. */
-    public Trie() {
+    public ImplementTriePrefixTree208() {
         value = new String[length];
     }
 
@@ -26,8 +26,9 @@ public class ImplementTriePrefixTree208 {
     /** Returns if the word is in the trie. */
     public boolean search(String word) {
         for(int i = 0;i<cur;i++){
-            if(value[i].equals(word))
+            if(value[i].equals(word)) {
                 return true;
+            }
         }
         return false;
     }
@@ -35,8 +36,9 @@ public class ImplementTriePrefixTree208 {
     /** Returns if there is any word in the trie that starts with the given prefix. */
     public boolean startsWith(String prefix) {
         for(int i = 0;i<cur;i++){
-            if(value[i].startsWith(prefix))
+            if(value[i].startsWith(prefix)) {
                 return true;
+            }
         }
         return false;
     }
