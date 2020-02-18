@@ -14,13 +14,17 @@ import java.util.*;
 public class Test {
     static int b;
 
-    public static void main(String[] args) {
-
-        float res =  2f/3 ;
-        System.out.println(res);
-        HashSet set = new HashSet();
-        set.clear();
-
+    public static void main(String[] args) throws InterruptedException {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        map.put(1, 1);
+        map.put(2, new Integer(2));
+        System.out.println(map);
+/*        long time = System.currentTimeMillis() + 6000;
+        for(int i = 0;i<5;i++){
+            long res = time - System.currentTimeMillis();
+            System.out.println("res "+res);
+            Thread.sleep(1000);
+        }*/
 /*        ReverseEqual reverseEqual = new ReverseEqual();
         List<String> stringList = new ArrayList<>();
         Map<String,String> map=new HashMap<>();
