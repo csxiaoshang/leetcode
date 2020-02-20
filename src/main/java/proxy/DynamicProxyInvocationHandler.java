@@ -32,5 +32,6 @@ public class DynamicProxyInvocationHandler implements InvocationHandler {
         DynamicProxyInvocationHandler dynamicProxy = new DynamicProxyInvocationHandler(userImpl);
         User user = (User) Proxy.newProxyInstance(DynamicProxyInvocationHandler.class.getClassLoader(), userImpl.getClass().getInterfaces(), dynamicProxy);
         user.addUser();
+        user.delUser();
     }
 }

@@ -11,4 +11,10 @@ public class UserImpl  implements User{
     public void addUser() {
         System.out.println("add User");
     }
+
+    @Override
+    public void delUser() {
+        System.out.println("del User");
+    }
+
 }

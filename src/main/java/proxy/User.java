@@ -9,4 +9,5 @@ package main.java.proxy;
 public interface User {
 
   void addUser();
+  void delUser();
 }
