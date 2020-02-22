@@ -15,10 +15,10 @@ public class Test {
     static int b;
 
     public static void main(String[] args) throws InterruptedException {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        map.put(1, 1);
-        map.put(2, new Integer(2));
-        System.out.println(map);
+        BitSet bitSet = new BitSet();
+        bitSet.set(6);
+        System.out.println(bitSet.toString());
+        System.out.println(6>>6);
 /*        long time = System.currentTimeMillis() + 6000;
         for(int i = 0;i<5;i++){
             long res = time - System.currentTimeMillis();
