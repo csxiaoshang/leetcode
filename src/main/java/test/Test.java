@@ -16,9 +16,11 @@ public class Test {
 
     public static void main(String[] args) throws InterruptedException {
         String s = "asdfghjkl";
-        System.out.println(s.substring(2,4));
-        System.out.println(new Test().hashCode());
-        System.out.println(new Test().hashCode());
+        System.out.println(s);
+        TestConfig testConfig = new TestConfig();
+        testConfig.wait(1000);
+        System.out.println(s);
+        System.out.println(s);
 /*        long time = System.currentTimeMillis() + 6000;
         for(int i = 0;i<5;i++){
             long res = time - System.currentTimeMillis();
