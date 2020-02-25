@@ -15,10 +15,10 @@ public class Test {
     static int b;
 
     public static void main(String[] args) throws InterruptedException {
-        BitSet bitSet = new BitSet();
-        bitSet.set(6);
-        System.out.println(bitSet.toString());
-        System.out.println(6>>6);
+        String s = "asdfghjkl";
+        System.out.println(s.substring(2,4));
+        System.out.println(new Test().hashCode());
+        System.out.println(new Test().hashCode());
 /*        long time = System.currentTimeMillis() + 6000;
         for(int i = 0;i<5;i++){
             long res = time - System.currentTimeMillis();
