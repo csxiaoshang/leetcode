@@ -15,12 +15,12 @@ public class Test {
     static int b;
 
     public static void main(String[] args) throws InterruptedException {
-        String s = "asdfghjkl";
-        System.out.println(s);
-        TestConfig testConfig = new TestConfig();
-        testConfig.wait(1000);
-        System.out.println(s);
-        System.out.println(s);
+        Integer a = 1;
+        Integer b = 2;
+        while(a.compareTo(b) == -1){
+            System.out.println(a.compareTo(b));
+            break;
+        }
 /*        long time = System.currentTimeMillis() + 6000;
         for(int i = 0;i<5;i++){
             long res = time - System.currentTimeMillis();
