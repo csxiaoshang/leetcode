@@ -19,6 +19,7 @@ public class AsyncClient {
         // 阻塞一下，等待连接成功
         System.out.println("建立连接 " + future.get());
 
+
         Attachment att = new Attachment();
         att.setClient(client);
         att.setReadMode(false);
