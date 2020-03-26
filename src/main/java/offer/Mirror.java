@@ -8,14 +8,15 @@ package main.java.offer;
  */
 public class Mirror {
     public void Mirror(TreeNode root) {
-        if (root==null)
+        if (root == null)
             return;
-        TreeNode node=root.left;
-        root.left=root.right;
-        root.right=node;
+        TreeNode node = root.left;
+        root.left = root.right;
+        root.right = node;
         Mirror(root.left);
         Mirror(root.right);
     }
+
     public class TreeNode {
         int val = 0;
         TreeNode left = null;
@@ -25,3 +26,4 @@ public class Mirror {
             this.val = val;
         }
     }
+}
