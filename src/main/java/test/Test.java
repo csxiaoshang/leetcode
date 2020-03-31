@@ -13,9 +13,14 @@ public class Test {
 
         String a = "asdgc";
         System.out.println(a);
-
+        int tem = 0;
+        Test test = new Test();
+        test.update(tem);
+        System.out.println(tem);
     }
-
+    private void update(int tem){
+        tem = 1;
+    }
 
 }
 
