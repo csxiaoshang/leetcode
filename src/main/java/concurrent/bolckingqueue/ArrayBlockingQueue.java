@@ -52,22 +52,12 @@ public class ArrayBlockingQueue<E> {
     }
 
     private E deque(){
-        try {
-            notEmpty.await();
-            return (E) items[--count];
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        return null;
+            E x = (E) items[--count];
+            notFull.signal();
+        return x;
     }
     private void enque(E e){
-        try {
-            notFull.await();
             items[count++] = e;
-        } catch (InterruptedException e1) {
-            e1.printStackTrace();
-        }finally {
             notEmpty.signal();
-        }
     }
 }
