@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/concurrent/bolckingqueue/ArrayBlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concurrent/bolckingqueue/ArrayBlockingQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MultiplyStrings43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MultiplyStrings43.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,25 +69,25 @@
         <counts>
           <entry key="class" value="7" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="218" />
+          <entry key="java" value="221" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="7" />
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="218" />
+          <entry key="JAVA" value="221" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="24173" />
+          <entry key="java" value="26002" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24173" />
+          <entry key="JAVA" value="26002" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -97,24 +95,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MultiplyStrings43.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MoveZeroes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/concurrent/bolckingqueue/ArrayBlockingQueue.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -142,11 +122,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStockII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="192">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/CopyListwithRandomPointer138.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="78" column="7" lean-forward="true" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStockIII123.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" selection-start-line="9" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/GroupAnagrams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,15 +193,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="167">
               <caret line="429" column="16" lean-forward="true" selection-start-line="429" selection-start-column="16" selection-end-line="429" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///opt/java/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13680">
-              <caret line="593" column="63" selection-start-line="593" selection-start-column="55" selection-end-line="593" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -223,9 +233,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/offer/FindPath.java" />
-        <option value="$PROJECT_DIR$/src/main/java/offertest/CloneTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/offer/Convert.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum_Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/FindTheK.java" />
         <option value="$PROJECT_DIR$/src/main/java/offer/GetLeastNumber_Solution.java" />
@@ -274,6 +281,9 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/MoveZeroes.java" />
         <option value="$PROJECT_DIR$/src/main/java/concurrent/bolckingqueue/ArrayBlockingQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStockII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/CopyListwithRandomPointer138.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStockIII123.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/GroupAnagrams.java" />
       </list>
     </option>
   </component>
@@ -353,7 +363,7 @@
     <property name="SearchEverywhereHistoryKey" value="ArrayBlocking&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/concurrent/ArrayBlockingQueue.class&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;TreeMa&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Concurrent&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java&#10;PriorityB&#9;PSI&#9;JAVA://java.util.concurrent.PriorityBlockingQueue&#10;LinkedQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;LinkedList&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/LinkedList.class&#10;FutureTask&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/FutureTask.java&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;ConcurrentS&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;AppCla&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;HashSet&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/HashSet.class&#10;EventOb&#9;PSI&#9;JAVA://java.util.EventObject&#10;ArraY&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/ArrayList.java&#10;Observer&#9;PSI&#9;JAVA://java.util.Observer&#10;AbstractQueuedSynchronizer&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;DelayQ&#9;PSI&#9;JAVA://java.util.concurrent.DelayQueue&#10;FileIn&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;Channel&#9;PSI&#9;JAVA://java.nio.channels.Channel&#10;Buffer&#9;PSI&#9;JAVA://java.nio.Buffer&#10;ArrayList&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/ArrayList.java&#10;Sort&#9;FILE&#9;jar:///opt/java/src.zip!/com/sun/org/apache/xalan/internal/xsltc/compiler/Sort.java&#10;asList&#9;PSI&#9;JAVA://java.util.Arrays#asList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586078135197" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586169629272" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -580,7 +590,7 @@
       <workItem from="1585227984307" duration="6298000" />
       <workItem from="1585271065282" duration="44970000" />
       <workItem from="1585710640591" duration="21072000" />
-      <workItem from="1585957420887" duration="7204000" />
+      <workItem from="1585957420887" duration="14376000" />
     </task>
     <servers />
   </component>
@@ -608,7 +618,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="316472000" />
+    <option name="totallyTimeSpent" value="323644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -629,7 +639,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27586207" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.27586207" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32973805" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3291536" />
@@ -709,27 +719,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///opt/java/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="505" column="50" lean-forward="true" selection-start-line="505" selection-start-column="50" selection-end-line="505" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/java/src.zip!/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="272" column="24" lean-forward="true" selection-start-line="272" selection-start-column="24" selection-end-line="272" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concurrent/thread/CasLru.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/concurrent/thread/NoSivibilityVariable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-302">
@@ -1082,8 +1071,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStockII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="192">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/CopyListwithRandomPointer138.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="78" column="7" lean-forward="true" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStockIII123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" selection-start-line="9" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/GroupAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
