@@ -1,5 +1,7 @@
 package main.java;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 /**
@@ -10,6 +12,9 @@ import java.util.concurrent.atomic.AtomicBoolean;
  */
 public class PacificAtlanticWaterFlow417 {
     public static void main(String[] args) {
-        AtomicBoolean b;
+
+    }
+    public List<List<Integer>> pacificAtlantic(int[][] matrix) {
+        return new ArrayList<>();
     }
 }
