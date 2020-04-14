@@ -13,9 +13,6 @@ import java.util.concurrent.atomic.AtomicBoolean;
  * 类说明：
  */
 public class PacificAtlanticWaterFlow417 {
-    public static void main(String[] args) {
-
-    }
     int[][] dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
     public List<List<Integer>> pacificAtlantic(int[][] matrix) {
         List<List<Integer>> res = new ArrayList<>();
@@ -29,8 +26,8 @@ public class PacificAtlanticWaterFlow417 {
         Queue<int[]> pqueue = new LinkedList<>();
         Queue<int[]> aqueue = new LinkedList<>();
         for (int i = 0; i < n; i++) {
-            pqueue.add(new int[]{i, 0});
-            aqueue.add(new int[]{i,m-1});
+            pqueue.offer(new int[]{i, 0});
+            aqueue.offer(new int[]{i,m-1});
             p[i][0] = true;
             a[i][m-1] = true;
         }
