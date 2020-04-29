@@ -1,4 +1,4 @@
-package main.java;
+package main.java.leetcode;
 
 /**
  * @author ashang  970090853@qq.com
