@@ -1,4 +1,6 @@
-package main.java;
+package main.java.leetcode;
+
+
 
 import java.util.List;
 

@@ -32,14 +32,23 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class ThreadReadFileHelper {
     // 模拟数据
     private static void writeData() throws FileNotFoundException, IOException {
-        FileOutputStream fileOutputStream = new FileOutputStream("test.txt");
+        FileOutputStream fileOutputStream = new FileOutputStream("/home/ashang/mount/competitions/zte/edgar/input1.csv");
         Random random = new Random();
-        for (int n = 0; n < 1000000; n++) {
-            int count = random.nextInt(10) + 1;
+        for (int n = 0; n < 1000; n++) {
+            // int count = random.nextInt(10) + 1;
+            int count = 3;
             StringBuilder builder = new StringBuilder();
 
             for (int i = 0; i < count; i++) {
-                builder.append(UUID.randomUUID().toString());
+                //builder.append(UUID.randomUUID().toString());
+                int tem = Math.abs(random.nextInt(1000));
+                if (i == 0) {
+                    builder.append(tem);
+                }else {
+                    builder.append(",")
+                            .append(tem);
+                }
+
             }
 
             builder.append("\n");
@@ -56,8 +65,9 @@ public class ThreadReadFileHelper {
     // 397115耗时 单线程
     // 245657耗时 cpu线程数（4线程）
     public static void main(String[] args) throws Exception {
-        ThreadReadFileHelper helper = new ThreadReadFileHelper();
-        helper.sigleThreadRead();
+/*        ThreadReadFileHelper helper = new ThreadReadFileHelper();
+        helper.sigleThreadRead();*/
+        writeData();
     }
 
     /**

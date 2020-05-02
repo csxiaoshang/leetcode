@@ -1,6 +1,6 @@
 package main.java.leetcode;
 
-import main.java.ListNode;
+
 
 /**
  * @author ashang  970090853@qq.com
