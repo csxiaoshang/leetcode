@@ -10,7 +10,7 @@ public class ReverseLinkedList206 {
     ListNode res = null;
     public ListNode reverseList(ListNode head) {
         if (head == null) {
-            return head;
+            return null;
         }
         recursive(head);
         return res;
