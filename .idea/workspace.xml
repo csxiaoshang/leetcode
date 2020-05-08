@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/FindAllAnagramsinaString438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindAllAnagramsinaString438.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/PalindromicSubstrings647.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/PalindromicSubstrings647.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,25 +77,25 @@
         <counts>
           <entry key="class" value="10" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="425" />
+          <entry key="java" value="427" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="10" />
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="425" />
+          <entry key="JAVA" value="427" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="java" value="70026" />
+          <entry key="java" value="70673" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="70018" />
+          <entry key="JAVA" value="70665" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="RegExp" value="8" />
         </counts>
@@ -104,24 +104,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/offer/wangyihuyu/Solution4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/QueueReconstructionbyHeight406.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/GasStation134.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -198,11 +180,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/PalindromicSubstrings647.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="216">
+              <caret line="9" selection-start-line="9" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/DailyTemperatures739.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/KthSmallestElementinaBST230.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="12" selection-start-line="12" selection-end-line="27" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -251,8 +255,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/BinaryTreePostorderTraversal145.java" />
-        <option value="$PROJECT_DIR$/src/main/java/leetcode/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/ConvertSoListtoBinarySearchTree109.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/SymmetricTree101.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicatesfromSortedListII82.java" />
@@ -302,6 +304,8 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/ShortestUnsortedContinuousSubarray581.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/TaskScheduler621.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/PalindromicSubstrings647.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/DailyTemperatures739.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/KthSmallestElementinaBST230.java" />
       </list>
     </option>
   </component>
@@ -381,7 +385,7 @@
     <property name="SearchEverywhereHistoryKey" value="ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;LinkedHashM&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;Deco&#9;FILE&#9;file:///home/ashang/Java/testjava/leetcode/src/main/java/leetcode/DecodeWays91.java&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;ArrayBlocking&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/concurrent/ArrayBlockingQueue.class&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;TreeMa&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Concurrent&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java&#10;PriorityB&#9;PSI&#9;JAVA://java.util.concurrent.PriorityBlockingQueue&#10;LinkedQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;LinkedList&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/LinkedList.class&#10;FutureTask&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/FutureTask.java&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;ConcurrentS&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;AppCla&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;HashSet&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/HashSet.class&#10;EventOb&#9;PSI&#9;JAVA://java.util.EventObject&#10;ArraY&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/ArrayList.java&#10;Observer&#9;PSI&#9;JAVA://java.util.Observer&#10;AbstractQueuedSynchronizer&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;DelayQ&#9;PSI&#9;JAVA://java.util.concurrent.DelayQueue&#10;FileIn&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;Channel&#9;PSI&#9;JAVA://java.nio.channels.Channel&#10;Buffer&#9;PSI&#9;JAVA://java.nio.Buffer&#10;Sort&#9;FILE&#9;jar:///opt/java/src.zip!/com/sun/org/apache/xalan/internal/xsltc/compiler/Sort.java&#10;asList&#9;PSI&#9;JAVA://java.util.Arrays#asList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588856646806" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588923583685" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -614,7 +618,7 @@
       <workItem from="1587624352106" duration="6666000" />
       <workItem from="1587804179040" duration="4346000" />
       <workItem from="1587874743164" duration="77048000" />
-      <workItem from="1588759240854" duration="9447000" />
+      <workItem from="1588759240854" duration="15159000" />
     </task>
     <servers />
   </component>
@@ -642,7 +646,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="572920000" />
+    <option name="totallyTimeSpent" value="578632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -663,7 +667,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2711599" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30250785" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32973805" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.47648904" />
@@ -775,24 +779,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/WordBreak139.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="48" selection-start-line="48" selection-end-line="48" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MaximumProductSubarray152.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-          <folding>
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/IntersectionofTwoLinkedLists160.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
@@ -1148,8 +1134,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/PalindromicSubstrings647.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/DailyTemperatures739.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/KthSmallestElementinaBST230.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="12" selection-start-line="12" selection-end-line="27" selection-end-column="17" />
         </state>
       </provider>
     </entry>
