@@ -3,6 +3,7 @@ package main.java.leetcode;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Stack;
 
 /**
  * @author ashang  970090853@qq.com
@@ -33,6 +34,34 @@ public class BinaryTreePostorderTraversal145 {
                     last = temp;
                     stack.pop();
                 }
+            }
+        }
+        return res;
+    }
+
+    /**
+    *@Description: do it myself
+    *@param: root
+    *@return: java.util.List<java.lang.Integer>
+    *@Author: ashang
+    *@date: 20-5-27上午8:59
+    */
+    private List<Integer> solution2(TreeNode root) {
+        List<Integer> res = new ArrayList<>();
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode pre = root;
+        while (!stack.isEmpty() || root != null) {
+            while (root != null) {
+                stack.push(root);
+                root = root.left;
+            }
+             TreeNode temp = stack.peek();
+            if (temp.right != null && temp.right != pre) {
+                root = temp.right;
+            }else {
+                res.add(temp.val);
+                pre = temp;
+                stack.pop();
             }
         }
         return res;
