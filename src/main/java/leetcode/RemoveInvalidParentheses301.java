@@ -15,7 +15,7 @@ public class RemoveInvalidParentheses301 {
         if (s == null || s.length() == 0) {
             return new ArrayList<>();
         }
-        backTrace(0,0,res,s);
+        backTrace(0, 0, res, s);
         for (int i = 0; i < s.length(); i++) {
             if (res.containsKey(i)) {
                 return res.get(i);
@@ -24,11 +24,14 @@ public class RemoveInvalidParentheses301 {
         return new ArrayList<>();
     }
 
-    private void backTrace(int step, int index,Map<Integer, List<String>> res, String s) {
+    private void backTrace(int step, int index, Map<Integer, List<String>> res, String s) {
         if (index == s.length()) {
+            if (!isValid(s)) {
+                return;
+            }
             if (res.containsKey(step)) {
                 res.get(step).add(new String(s));
-            }else{
+            } else {
                 List<String> list = new ArrayList<>();
                 list.add(new String(s));
                 res.put(step, list);
@@ -37,6 +40,10 @@ public class RemoveInvalidParentheses301 {
         }
 
         for (int i = index; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (c != '(' && c != ')') {
+                continue;
+            }
             String cur = s.substring(0, i) + s.substring(i + 1);
             backTrace(step + 1, index + 1, res, cur);
         }
@@ -45,6 +52,18 @@ public class RemoveInvalidParentheses301 {
     private boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         char[] chars = s.toCharArray();
+        for (int i = 0; i < chars.length; i++) {
+            if (chars[i] == '(') {
+                stack.push(chars[i]);
+            } else if (chars[i] == ')') {
+                if (stack.isEmpty()) {
+                    return false;
+                } else {
+                    stack.pop();
 
+                }
+            }
+        }
+        return stack.isEmpty() ? true : false;
     }
 }
