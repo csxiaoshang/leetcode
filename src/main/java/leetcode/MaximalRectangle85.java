@@ -59,9 +59,4 @@ public class MaximalRectangle85 {
             return maxArea;
         }
     }
-    class Solution2{
-        public int maximalRectangle(char[][] matrix) {
-
-        }
-    }
 }
