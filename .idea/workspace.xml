@@ -4,6 +4,7 @@
     <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetcode/main/java/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/main/java/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/RemoveInvalidParentheses301.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveInvalidParentheses301.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,37 +41,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Suppre</find>
-      <find>Seg</find>
-      <find>getChan</find>
-      <find>putval</find>
-      <find>onlyIfAbsent</find>
-      <find>callable</find>
-      <find>run</find>
-      <find>tail</find>
-      <find>sort</find>
-      <find>notEmpty</find>
-      <find>offer</find>
-      <find>take</find>
-      <find>deque</find>
-      <find>getAndIn</find>
-      <find>charAt</find>
-      <find>threshold</find>
-      <find>remove</find>
-      <find>before</find>
-      <find>putVal</find>
-      <find>resize</find>
-      <find>Node</find>
-      <find>put</find>
-      <find>head</find>
-      <find>add</find>
-      <find>TreeMap</find>
-      <find>get</find>
-      <find>insert</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -377,10 +347,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="344" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592050781367" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1593002840712">
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1593313693084">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593002840712" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593313693084" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
