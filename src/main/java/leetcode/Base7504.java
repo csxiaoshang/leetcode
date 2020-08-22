@@ -7,6 +7,9 @@ package main.java.leetcode;
  * 类说明：
  */
 public class Base7504 {
+    public static void main(String[] args) {
+        System.out.println(Boolean.TRUE.equals(false));
+    }
     public String convertToBase7(int num) {
         if (num == 0) {
             return "0";

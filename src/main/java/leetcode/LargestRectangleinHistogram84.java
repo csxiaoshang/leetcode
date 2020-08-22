@@ -16,7 +16,7 @@ import java.util.Set;
  * Input: [2,1,5,6,2,3]
  * Output: 10
  */
-public class LargestRectangleInHistogram84 {
+public class LargestRectangleinHistogram84 {
     public int largestRectangleArea(int[] heights) {
         int max = Integer.MIN_VALUE;
         int l = 0;

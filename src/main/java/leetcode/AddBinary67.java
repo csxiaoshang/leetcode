@@ -1,5 +1,8 @@
 package main.java.leetcode;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author ashang  970090853@qq.com
  * @Date 20-4-17 下午6:50
@@ -7,6 +10,21 @@ package main.java.leetcode;
  * 类说明：
  */
 public class AddBinary67 {
+    public static void main(String[] args) {
+        List<String> list = new ArrayList<>();
+        list.add("asdf");
+        System.out.println(list.toString());
+        int num = 6;
+        int count = 0;
+        while (num > 0) {
+            if ((num & 1) == 1) {
+                count++;
+            }
+            num = num >> 1;
+            System.out.println(num);
+        }
+        System.out.println(count);
+    }
     public String addBinary(String a, String b) {
         String res = "";
         int alen = a.length();

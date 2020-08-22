@@ -4,7 +4,8 @@
     <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetcode/main/java/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/main/java/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MaximalRectangle85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaximalRectangle85.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/LargestRectangleinHistogram84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LargestRectangleinHistogram84.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/WordLadder127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/WordLadder127.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,37 +42,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Suppre</find>
-      <find>Seg</find>
-      <find>getChan</find>
-      <find>putval</find>
-      <find>onlyIfAbsent</find>
-      <find>callable</find>
-      <find>run</find>
-      <find>tail</find>
-      <find>sort</find>
-      <find>notEmpty</find>
-      <find>offer</find>
-      <find>take</find>
-      <find>deque</find>
-      <find>getAndIn</find>
-      <find>charAt</find>
-      <find>threshold</find>
-      <find>remove</find>
-      <find>before</find>
-      <find>putVal</find>
-      <find>resize</find>
-      <find>Node</find>
-      <find>put</find>
-      <find>head</find>
-      <find>add</find>
-      <find>TreeMap</find>
-      <find>get</find>
-      <find>insert</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -129,7 +99,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReorderList143">
+  <component name="RunManager" selected="Application.WordLadder127">
     <configuration name="PalindromePartitioning131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.leetcode.PalindromePartitioning131" />
       <module name="leetcode" />
@@ -169,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrailingZeroes172" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.TrailingZeroes172" />
+    <configuration name="WordLadder127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.WordLadder127" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -199,16 +169,16 @@
       <item itemvalue="Application.PalindromePartitioning131" />
       <item itemvalue="Application.ReorderList143" />
       <item itemvalue="Application.SurroundedRegions130" />
-      <item itemvalue="Application.TrailingZeroes172" />
+      <item itemvalue="Application.WordLadder127" />
       <item itemvalue="Application.ZigZagConversion6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordLadder127" />
         <item itemvalue="Application.ReorderList143" />
         <item itemvalue="Application.PalindromePartitioning131" />
         <item itemvalue="Application.SurroundedRegions130" />
         <item itemvalue="Application.ZigZagConversion6" />
-        <item itemvalue="Application.TrailingZeroes172" />
       </list>
     </recent_temporary>
   </component>
@@ -340,29 +310,6 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="FlippingAnImageTest_flippingAndInvertImage - 2018.10.25 at 20h 30m 27s.xml">
-      <configuration name="FlippingAnImageTest.flippingAndInvertImage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FlippingAnImageTest_flippingAndInvertImage - 2018.10.25 at 20h 32m 50s.xml">
-      <configuration name="FlippingAnImageTest.flippingAndInvertImage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FlippingAnImageTest_flippingAndInvertImage - 2018.10.25 at 20h 39m 11s.xml">
-      <configuration name="FlippingAnImageTest.flippingAndInvertImage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FlippingAnImageTest_flippingAndInvertImage - 2018.10.25 at 20h 39m 35s.xml">
-      <configuration name="FlippingAnImageTest.flippingAndInvertImage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FlippingAnImageTest - 2018.10.25 at 20h 39m 54s.xml">
-      <configuration name="FlippingAnImageTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FlippingAnImageTest - 2018.10.25 at 20h 41m 36s.xml">
-      <configuration name="FlippingAnImageTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FlippingAnImageTest_flippingAndInvertImage - 2018.10.25 at 20h 42m 35s.xml">
-      <configuration name="FlippingAnImageTest.flippingAndInvertImage" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="730888000" />
   </component>
@@ -374,14 +321,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="582" y="183" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1592050146542" />
+    <state x="817" y="355" key="#Notifications" timestamp="1594192493583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="355" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1594192493583" />
+    <state x="687" y="216" key="FileChooserDialogImpl" timestamp="1594278835593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594278835593" />
+    <state width="1867" height="445" key="GridCell.Tab.0.bottom" timestamp="1594352088073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="445" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594352088073" />
+    <state width="1867" height="445" key="GridCell.Tab.0.center" timestamp="1594352088073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="445" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594352088073" />
+    <state width="1867" height="445" key="GridCell.Tab.0.left" timestamp="1594352088073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="445" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594352088073" />
+    <state width="1867" height="445" key="GridCell.Tab.0.right" timestamp="1594352088073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="445" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594352088073" />
+    <state x="529" y="159" key="NewModule_or_Project.wizard" timestamp="1594278844499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="159" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594278844499" />
     <state x="344" y="78" key="SettingsEditor" timestamp="1592050781367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="344" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592050781367" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1592794881859">
+    <state x="158" y="103" key="new project wizard" timestamp="1594278820211">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592794881859" />
+    <state x="158" y="103" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1594278820211" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1593676040217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593676040217" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
