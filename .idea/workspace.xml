@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/main/java/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/main/java/test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/LargestRectangleinHistogram84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/LargestRectangleinHistogram84.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/WordLadder127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/WordLadder127.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +33,101 @@
     <expand />
     <select />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-782399370">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1702" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1702" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/meituan/Solution1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/meituan/Solution2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/meituan/Solution3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/meituan/Solution4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///opt/java/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10800">
+              <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/kuaishou/Solution1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -46,6 +139,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/offer/meituan/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/meituan/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/meituan/Solution3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/meituan/Solution4.java" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -53,14 +156,60 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="x" value="1800" />
+    <option name="y" value="178" />
+    <option name="width" value="1291" />
+    <option name="height" value="686" />
   </component>
   <component name="ProjectId" id="1d6gonmFgggSZi9rWcOxz0XRstW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="meituan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -75,7 +224,7 @@
     <property name="SearchEverywhereHistoryKey" value="85&#9;PSI&#9;JAVA://main.java.leetcode.MaximalRectangle85&#10;76&#9;PSI&#9;JAVA://main.java.leetcode.MinimumWindowSubstring76&#10;NextPer&#9;PSI&#9;JAVA://main.java.leetcode.NextPermutation31&#10;Zigza&#9;FILE&#9;file:///home/ashang/Java/testjava/leetcode/src/main/java/leetcode/ZigZagConversion6.java&#10;Uni&#9;PSI&#9;JAVA://main.java.leetcode.UniqueBinarySearchTreesII95&#10;SortCo&#9;PSI&#9;JAVA://main.java.SortColors75&#10;TopK&#9;PSI&#9;JAVA://main.java.TopKFrequentElements347&#10;Kth&#9;PSI&#9;JAVA://main.java.KthLargestElementinanArray215&#10;ZigZagConversion6&#9;PSI&#9;JAVA://main.java.ZigZagConversion6&#10;LongestPalindrome&#9;PSI&#9;JAVA://main.java.LongestPalindromicSubstring5#longestPalindrome&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;LinkedHashM&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;Deco&#9;FILE&#9;file:///home/ashang/Java/testjava/leetcode/src/main/java/leetcode/DecodeWays91.java&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;ArrayBlocking&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/concurrent/ArrayBlockingQueue.class&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;TreeMa&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Concurrent&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java&#10;PriorityB&#9;PSI&#9;JAVA://java.util.concurrent.PriorityBlockingQueue&#10;LinkedQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;LinkedList&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/LinkedList.class&#10;FutureTask&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/FutureTask.java&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;ConcurrentS&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;AppCla&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;HashSet&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/HashSet.class&#10;EventOb&#9;PSI&#9;JAVA://java.util.EventObject&#10;ArraY&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/ArrayList.java&#10;Observer&#9;PSI&#9;JAVA://java.util.Observer&#10;AbstractQueuedSynchronizer&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;DelayQ&#9;PSI&#9;JAVA://java.util.concurrent.DelayQueue&#10;FileIn&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;Channel&#9;PSI&#9;JAVA://java.nio.channels.Channel&#10;Buffer&#9;PSI&#9;JAVA://java.nio.Buffer&#10;Sort&#9;FILE&#9;jar:///opt/java/src.zip!/com/sun/org/apache/xalan/internal/xsltc/compiler/Sort.java&#10;asList&#9;PSI&#9;JAVA://java.util.Arrays#asList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592733771518" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598692234975" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -99,13 +248,25 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordLadder127">
-    <configuration name="PalindromePartitioning131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.PalindromePartitioning131" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution4">
+    <configuration name="Solution1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.offer.meituan.Solution1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.leetcode.*" />
+          <option name="PATTERN" value="main.java.offer.meituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReorderList143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.ReorderList143" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.offer.yuanfudao.Solution1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.leetcode.*" />
+          <option name="PATTERN" value="main.java.offer.yuanfudao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +287,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurroundedRegions130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.SurroundedRegions130" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.offer.meituan.Solution3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.leetcode.*" />
+          <option name="PATTERN" value="main.java.offer.meituan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.offer.meituan.Solution4" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.offer.meituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,33 +326,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZigZagConversion6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.ZigZagConversion6" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.PalindromePartitioning131" />
-      <item itemvalue="Application.ReorderList143" />
-      <item itemvalue="Application.SurroundedRegions130" />
       <item itemvalue="Application.WordLadder127" />
-      <item itemvalue="Application.ZigZagConversion6" />
+      <item itemvalue="Application.Solution1" />
+      <item itemvalue="Application.Solution1 (1)" />
+      <item itemvalue="Application.Solution3" />
+      <item itemvalue="Application.Solution4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution4" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution1 (1)" />
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.WordLadder127" />
-        <item itemvalue="Application.ReorderList143" />
-        <item itemvalue="Application.PalindromePartitioning131" />
-        <item itemvalue="Application.SurroundedRegions130" />
-        <item itemvalue="Application.ZigZagConversion6" />
       </list>
     </recent_temporary>
   </component>
@@ -307,14 +468,55 @@
       <workItem from="1591276897617" duration="12384000" />
       <workItem from="1591598830363" duration="3843000" />
       <workItem from="1592731665735" duration="1475000" />
+      <workItem from="1598687907784" duration="4150000" />
+      <workItem from="1598926331434" duration="761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="730888000" />
+    <option name="totallyTimeSpent" value="736662000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1431" y="24" width="2495" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1298808" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27899686" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Tail" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="582" y="183" key="#Inspections" timestamp="1592050146542">
@@ -368,40 +570,97 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/RemoveElement27.java</url>
           <line>25</line>
+          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/ImplementstrStr28.java</url>
           <line>18</line>
+          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/UniquePaths62.java</url>
           <line>13</line>
+          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/LRUCache.java</url>
           <line>15</line>
+          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/HouseRobber198.java</url>
           <line>10</line>
+          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/MaximumProductSubarray152.java</url>
           <line>11</line>
+          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/MaximalSquare221.java</url>
           <line>57</line>
+          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/meituan/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/meituan/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/meituan/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/java/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10800">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/kuaishou/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/meituan/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
