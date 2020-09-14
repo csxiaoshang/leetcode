@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MinimumDepthofBinaryTree111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinimumDepthofBinaryTree111.java" afterDir="false" />
-    </list>
+    <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +69,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9610" />
+          <entry key="java" value="9629" />
           <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9610" />
+          <entry key="JAVA" value="9629" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
@@ -116,8 +113,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/OpentheLock752.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="56" selection-start-line="56" selection-end-line="126" selection-end-column="5" />
+            <state relative-caret-position="216">
+              <caret line="101" column="17" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -283,7 +280,15 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="tencent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -306,7 +311,7 @@
     <property name="SearchEverywhereHistoryKey" value="Minimum&#9;PSI&#9;JAVA://main.java.leetcode.MinimumDepthofBinaryTree111&#10;Thread&#9;FILE&#9;jar:///opt/java/src.zip!/java/lang/Thread.java&#10;Multi&#9;PSI&#9;JAVA://main.java.leetcode.MultiplyStrings43&#10;Binary&#9;PSI&#9;JAVA://main.java.leetcode.BinaryTreeMaximumPathSum124&#10;Array&#9;PSI&#9;JAVA://main.java.concurrent.bolckingqueue.ArrayBlockingQueue&#10;String&#9;ACTION&#9;Actions.ActionsPlugin.GenerateToString&#10;85&#9;PSI&#9;JAVA://main.java.leetcode.MaximalRectangle85&#10;76&#9;PSI&#9;JAVA://main.java.leetcode.MinimumWindowSubstring76&#10;NextPer&#9;PSI&#9;JAVA://main.java.leetcode.NextPermutation31&#10;Zigza&#9;FILE&#9;file:///home/ashang/Java/testjava/leetcode/src/main/java/leetcode/ZigZagConversion6.java&#10;Uni&#9;PSI&#9;JAVA://main.java.leetcode.UniqueBinarySearchTreesII95&#10;SortCo&#9;PSI&#9;JAVA://main.java.SortColors75&#10;TopK&#9;PSI&#9;JAVA://main.java.TopKFrequentElements347&#10;Kth&#9;PSI&#9;JAVA://main.java.KthLargestElementinanArray215&#10;ZigZagConversion6&#9;PSI&#9;JAVA://main.java.ZigZagConversion6&#10;LongestPalindrome&#9;PSI&#9;JAVA://main.java.LongestPalindromicSubstring5#longestPalindrome&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;LinkedHashM&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;Deco&#9;FILE&#9;file:///home/ashang/Java/testjava/leetcode/src/main/java/leetcode/DecodeWays91.java&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;ArrayBlocking&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/concurrent/ArrayBlockingQueue.class&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;TreeMa&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Concurrent&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java&#10;PriorityB&#9;PSI&#9;JAVA://java.util.concurrent.PriorityBlockingQueue&#10;LinkedQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;LinkedList&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/LinkedList.class&#10;FutureTask&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/FutureTask.java&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;ConcurrentS&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;AppCla&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;HashSet&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/HashSet.class&#10;EventOb&#9;PSI&#9;JAVA://java.util.EventObject&#10;ArraY&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/ArrayList.java&#10;Observer&#9;PSI&#9;JAVA://java.util.Observer&#10;AbstractQueuedSynchronizer&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;DelayQ&#9;PSI&#9;JAVA://java.util.concurrent.DelayQueue&#10;FileIn&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;Channel&#9;PSI&#9;JAVA://java.nio.channels.Channel&#10;Buffer&#9;PSI&#9;JAVA://java.nio.Buffer&#10;Sort&#9;FILE&#9;jar:///opt/java/src.zip!/com/sun/org/apache/xalan/internal/xsltc/compiler/Sort.java&#10;asList&#9;PSI&#9;JAVA://java.util.Arrays#asList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599928773218" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600077808989" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -343,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NQueens51">
+  <component name="RunManager" selected="Application.Solution13">
     <configuration name="NQueens51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.leetcode.NQueens51" />
       <module name="leetcode" />
@@ -370,8 +375,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.offer.tencent.Solution10" />
+    <configuration name="Solution11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.offer.tencent.Solution11" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -383,8 +388,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.offer.tencent.Solution8" />
+    <configuration name="Solution12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.offer.tencent.Solution12" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -396,8 +401,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.offer.tencent.Solution9" />
+    <configuration name="Solution13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.offer.tencent.Solution13" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -410,19 +415,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution8" />
-      <item itemvalue="Application.Solution9" />
-      <item itemvalue="Application.Solution10" />
       <item itemvalue="Application.RecoverBinarySearchTree99" />
       <item itemvalue="Application.NQueens51" />
+      <item itemvalue="Application.Solution11" />
+      <item itemvalue="Application.Solution12" />
+      <item itemvalue="Application.Solution13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution13" />
+        <item itemvalue="Application.Solution12" />
+        <item itemvalue="Application.Solution11" />
         <item itemvalue="Application.NQueens51" />
         <item itemvalue="Application.RecoverBinarySearchTree99" />
-        <item itemvalue="Application.Solution10" />
-        <item itemvalue="Application.Solution9" />
-        <item itemvalue="Application.Solution8" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +574,7 @@
       <workItem from="1599788370777" duration="4295000" />
       <workItem from="1599824120197" duration="4708000" />
       <workItem from="1599878181464" duration="2262000" />
-      <workItem from="1599894758688" duration="2773000" />
+      <workItem from="1599894758688" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="add deadLock test">
       <created>1599101356013</created>
@@ -582,13 +587,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="778627000" />
+    <option name="totallyTimeSpent" value="785640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3559322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3559322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -602,7 +606,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.37938932" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37931034" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -1054,6 +1058,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///opt/java/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5880">
+          <caret line="286" column="16" selection-start-line="286" selection-start-column="16" selection-end-line="286" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MinimumDepthofBinaryTree111.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" selection-start-line="34" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/multifile/ThreadReadFileHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -1082,10 +1100,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/OpentheLock752.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="101" column="17" selection-start-line="101" selection-start-column="17" selection-end-line="101" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/java/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="119" column="24" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///opt/java/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90240">
-          <caret line="3840" column="23" selection-start-line="3840" selection-start-column="23" selection-end-line="3840" selection-end-column="23" />
+        <state relative-caret-position="83">
+          <caret line="3180" selection-start-line="3180" selection-end-line="3180" />
           <folding>
             <element signature="e#178082#178083#0" expanded="true" />
             <element signature="e#178121#178122#0" expanded="true" />
@@ -1095,8 +1130,8 @@
     </entry>
     <entry file="jar:///opt/java/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9408">
-          <caret line="430" column="7" selection-start-line="430" selection-start-column="7" selection-end-line="430" selection-end-column="7" />
+        <state relative-caret-position="43">
+          <caret line="461" selection-start-line="461" selection-end-line="461" />
           <folding>
             <element signature="e#15586#15587#0" expanded="true" />
             <element signature="e#15631#15632#0" expanded="true" />
@@ -1104,27 +1139,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///opt/java/src.zip!/java/lang/Thread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/tencent/Solution13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="286" column="16" selection-start-line="286" selection-start-column="16" selection-end-line="286" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/MinimumDepthofBinaryTree111.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="34" selection-start-line="34" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/OpentheLock752.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="56" selection-start-line="56" selection-end-line="126" selection-end-column="5" />
+        <state relative-caret-position="96">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/tencent/Solution12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/tencent/Solution11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
