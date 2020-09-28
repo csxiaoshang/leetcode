@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="" />
+    <list default="true" id="24dcaa1a-8a7b-4186-a4bb-8096612287c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +37,7 @@
     <session id="-782399370">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.107" value="1" />
           <entry key="project.open.time.108" value="1" />
           <entry key="project.open.time.18" value="1" />
@@ -51,7 +53,8 @@
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.49" value="2" />
-          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.50" value="2" />
           <entry key="project.open.time.55" value="2" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.57" value="2" />
@@ -61,28 +64,28 @@
           <entry key="project.open.time.73" value="1" />
           <entry key="project.open.time.79" value="1" />
           <entry key="project.open.time.81" value="1" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="53" />
+          <entry key="java" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="53" />
+          <entry key="JAVA" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10834" />
+          <entry key="java" value="11299" />
           <entry key="txt" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10834" />
+          <entry key="JAVA" value="11299" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
@@ -90,15 +93,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStockIV188.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/TargetSum494.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,17 +109,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/LongestPalindromicSubsequence516.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            <state relative-caret-position="1320">
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RangeSumQueryImmutable3030.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RangeSumQueryImmutable3030.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/offer/nonghang/Solution1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="15" />
+            <state relative-caret-position="96">
+              <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -238,6 +241,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/BestTimetoBuyandSellStockIV188.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/LongestPalindromicSubsequence516.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/RangeSumQueryImmutable3030.java" />
+        <option value="$PROJECT_DIR$/src/main/java/offer/nonghang/Solution1.java" />
       </list>
     </option>
   </component>
@@ -254,10 +258,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1431" />
+    <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="2495" />
-    <option name="height" value="1416" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectId" id="1d6gonmFgggSZi9rWcOxz0XRstW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -268,7 +272,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,13 +295,22 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="nonghang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -314,7 +326,7 @@
     <property name="SearchEverywhereHistoryKey" value="Minimum&#9;PSI&#9;JAVA://main.java.leetcode.MinimumDepthofBinaryTree111&#10;Thread&#9;FILE&#9;jar:///opt/java/src.zip!/java/lang/Thread.java&#10;Multi&#9;PSI&#9;JAVA://main.java.leetcode.MultiplyStrings43&#10;Binary&#9;PSI&#9;JAVA://main.java.leetcode.BinaryTreeMaximumPathSum124&#10;Array&#9;PSI&#9;JAVA://main.java.concurrent.bolckingqueue.ArrayBlockingQueue&#10;String&#9;ACTION&#9;Actions.ActionsPlugin.GenerateToString&#10;85&#9;PSI&#9;JAVA://main.java.leetcode.MaximalRectangle85&#10;76&#9;PSI&#9;JAVA://main.java.leetcode.MinimumWindowSubstring76&#10;NextPer&#9;PSI&#9;JAVA://main.java.leetcode.NextPermutation31&#10;Zigza&#9;FILE&#9;file:///home/ashang/Java/testjava/leetcode/src/main/java/leetcode/ZigZagConversion6.java&#10;Uni&#9;PSI&#9;JAVA://main.java.leetcode.UniqueBinarySearchTreesII95&#10;SortCo&#9;PSI&#9;JAVA://main.java.SortColors75&#10;TopK&#9;PSI&#9;JAVA://main.java.TopKFrequentElements347&#10;Kth&#9;PSI&#9;JAVA://main.java.KthLargestElementinanArray215&#10;ZigZagConversion6&#9;PSI&#9;JAVA://main.java.ZigZagConversion6&#10;LongestPalindrome&#9;PSI&#9;JAVA://main.java.LongestPalindromicSubstring5#longestPalindrome&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;LinkedHashM&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;Deco&#9;FILE&#9;file:///home/ashang/Java/testjava/leetcode/src/main/java/leetcode/DecodeWays91.java&#10;AtomicIn&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;ArrayBlocking&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/concurrent/ArrayBlockingQueue.class&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;TreeMa&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Concurrent&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/ConcurrentSkipListMap.java&#10;PriorityB&#9;PSI&#9;JAVA://java.util.concurrent.PriorityBlockingQueue&#10;LinkedQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;LinkedList&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/LinkedList.class&#10;FutureTask&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/concurrent/FutureTask.java&#10;Threadl&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;ConcurrentS&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListMap&#10;AppClass&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;AppCla&#9;PSI&#9;JAVA://sun.misc.Launcher.AppClassLoader&#10;HashSet&#9;FILE&#9;jar:///opt/java/jre/lib/rt.jar!/java/util/HashSet.class&#10;EventOb&#9;PSI&#9;JAVA://java.util.EventObject&#10;ArraY&#9;FILE&#9;jar:///opt/java/src.zip!/java/util/ArrayList.java&#10;Observer&#9;PSI&#9;JAVA://java.util.Observer&#10;AbstractQueuedSynchronizer&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;DelayQ&#9;PSI&#9;JAVA://java.util.concurrent.DelayQueue&#10;FileIn&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;Channel&#9;PSI&#9;JAVA://java.nio.channels.Channel&#10;Buffer&#9;PSI&#9;JAVA://java.nio.Buffer&#10;Sort&#9;FILE&#9;jar:///opt/java/src.zip!/com/sun/org/apache/xalan/internal/xsltc/compiler/Sort.java&#10;asList&#9;PSI&#9;JAVA://java.util.Arrays#asList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600743200547" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601098702280" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -351,7 +363,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution13">
+  <component name="RunManager" selected="Application.Solution1">
     <configuration name="NQueens51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.leetcode.NQueens51" />
       <module name="leetcode" />
@@ -365,12 +377,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecoverBinarySearchTree99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.RecoverBinarySearchTree99" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.offer.nonghang.Solution1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.leetcode.*" />
+          <option name="PATTERN" value="main.java.offer.nonghang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -418,19 +430,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RecoverBinarySearchTree99" />
       <item itemvalue="Application.NQueens51" />
       <item itemvalue="Application.Solution11" />
       <item itemvalue="Application.Solution12" />
       <item itemvalue="Application.Solution13" />
+      <item itemvalue="Application.Solution1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Solution13" />
         <item itemvalue="Application.Solution12" />
         <item itemvalue="Application.Solution11" />
         <item itemvalue="Application.NQueens51" />
-        <item itemvalue="Application.RecoverBinarySearchTree99" />
       </list>
     </recent_temporary>
   </component>
@@ -588,7 +600,9 @@
       <workItem from="1600415912197" duration="599000" />
       <workItem from="1600651498251" duration="1912000" />
       <workItem from="1600693993536" duration="599000" />
-      <workItem from="1600737807470" duration="3768000" />
+      <workItem from="1600737807470" duration="4261000" />
+      <workItem from="1600744451129" duration="32000" />
+      <workItem from="1601086948434" duration="2271000" />
     </task>
     <task id="LOCAL-00001" summary="add deadLock test">
       <created>1599101356013</created>
@@ -601,13 +615,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="805858000" />
+    <option name="totallyTimeSpent" value="808654000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1431" y="24" width="2495" height="1416" extended-state="6" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2055076" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21307506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -616,17 +630,18 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29780564" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2968491" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2351145" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40992367" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.0" />
       <window_info anchor="bottom" id="Tail" order="12" />
+      <window_info anchor="right" id="Key Promoter X" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.3296342" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -804,13 +819,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///opt/java/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41088">
-          <caret line="1781" column="31" selection-start-line="1781" selection-start-column="31" selection-end-line="1781" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///opt/java/src.zip!/java/util/concurrent/ThreadFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -1088,9 +1096,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2448">
           <caret line="103" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1109,6 +1114,13 @@
             <element signature="e#209#210#0" expanded="true" />
             <element signature="e#250#251#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/LongestPalindromicSubsequence516.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1162,17 +1174,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/LongestPalindromicSubsequence516.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RangeSumQueryImmutable3030.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        <state relative-caret-position="237">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RangeSumQueryImmutable3030.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/offer/nonghang/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="15" />
+        <state relative-caret-position="96">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
         </state>
       </provider>
     </entry>
